@@ -11,5 +11,41 @@
  * 4.How to declare variable in javascript?
  * Ans: Variables are containers for storing data.Variables are declare with the keyword 'Var'.Example: var number = 10;
  * 
- * 5.--Other Packege-- 
+ * 5.How to change variable value?
+ * Ans : --Other Packege-- 
+ * 
+ * 6.How many types of variable in javaScript?
+ * Ans. In JavaScript there are 5 types of variable.
+ * They are Number, String ,Boolean,Funcation and object.
+ * 
+ * 7.What is primitive and non primitive data type ? with Example.
+ * Ans: Primitive data type: Primitive is a data that is not an object has
+ *  no method or properties.There are 7 primitive data types:
+ *          i)String
+ *          ii)number
+ *          iii)bigint
+ *          iv)bolean
+ *          v)undefind
+ *          vi)Symbol
+ *          vii)Null
+ * 
+ *  Non-primitive data type:  Non primitive is a data that are created
+ *  by programmer.There are 2 non primitive data types:
+ *          i)Object
+ *          ii)Array
+ * 
+ * 8.How to declare variable names? Naming convention of JS variables.
+ *      Naming conventions for variables:
+ *          a) Varible name cannot be any keywords.
+ *          b) Varible name has to be in one word.
+ *          c) Varible name cannot be any quotation.
+ *          d) Varible name cannot start with a number but can end with a number.
+ *          e) In variable we can't use dash(. We can use underscore(_)
+ *          f) In variable name better to use CamelCase.
+ *          g) Varible name is case sensitive.
+ * 
+ * 9.How to use +,=,-,*,/,% in two variables?
+ * Ans: --Other Packege-- 
+ * 
+ * 
  ***************/ 
