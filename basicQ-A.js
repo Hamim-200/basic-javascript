@@ -23,11 +23,9 @@
  *  no method or properties.There are 7 primitive data types:
  *          i)String
  *          ii)number
- *          iii)bigint
- *          iv)bolean
- *          v)undefind
- *          vi)Symbol
- *          vii)Null
+ *          iii)bolean
+ *          iv)undefind
+ *          v)Null
  * 
  *  Non-primitive data type:  Non primitive is a data that are created
  *  by programmer.There are 2 non primitive data types:
@@ -47,5 +45,11 @@
  * 9.How to use +,=,-,*,/,% in two variables?
  * Ans: --Other Packege-- 
  * 
+ * 10.Short Hands= +=,-=,*=,/=
+ * Ans: --Other Packege-- 
+ * 
+ * 11. What is ++ , --?
+ * Ans : ++ means adding 1 from the existing value
+ * Ans : -- means deducting 1 from the existing value
  * 
  ***************/ 
