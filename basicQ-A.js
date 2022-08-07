@@ -52,4 +52,45 @@
  * Ans : ++ means adding 1 from the existing value
  * Ans : -- means deducting 1 from the existing value
  * 
- ***************/ 
+ * 12.why we use parseInt, parseFloat, toFixed?
+ *
+ * Ans: parseInt : When we need to change variable type from string to integer 
+ * we use parseInt.
+ * 
+ * parsefloat: Same way we can do parseFloat,parseFloat will keep decimal points 
+ * too.
+ * 
+ * toFixed: use toFixed to show decimal points whatever we want . Especially when 
+ * we have a big number.
+ * 
+ * Example: -----Other Package-----
+ * 
+ * ------ARRAY-----
+ * 
+ * 13.What is array ? how does it work ?how to declear an array?
+ * 
+ * Ans :-Array is an ordered list of values. Each value is called an element  
+ * specified by an index.
+ * 
+ * -JavaScript arrays are zero indexed the first element of an array is at index 
+ * 0,the second is at index 1.
+ * 
+ *-Declare  array like this : [12,34,23,45,65,2,43,56,36,465,25,21,45,67,96]
+ *
+ * 14. How to find out how many elements are in array?
+ * Ans: Using array.length
+ * 
+ * 15. How do index positions work in array elements? Where does it start and how does it changes?
+ *  
+ * Ans: index position works from the left it starts at 0 and then changes to 
+ * right position 1,2,3 and so on.
+ * 
+ * 16. What does it mean by the index -1 ?
+ * Ans It means that the elemnt is not in the array list .
+ * 
+ * 17.How can you get the value of array elements with index?
+ * 
+ * Ans: --Other Packege--
+ * 
+
+ ****************/ 
