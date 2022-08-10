@@ -1,15 +1,21 @@
 /***************
  * 1.What Is JavaScript?
- * Ans: JavaScript is a scripting or programming language that allows you to implement complex features on web pages.
+ * Ans: JavaScript is a scripting or programming language that allows you to 
+ * implement complex features on web pages.
  * 
  * 2.How does JavaScript work?
- * Ans:The source code is passed through a program called a compiler, which translate it into bytecode that the machine understand and can execute. In contrast,JavaScript has no complilation step.instead an interpreter in the browser reads over the JavaScript code,interprets each line, and runs it.
+ * Ans:The source code is passed through a program called a compiler, which 
+ * translate it into bytecode that the machine understand and can execute. In 
+ * contrast,JavaScript has no complilation step.instead an interpreter in the 
+ * browser reads over the JavaScript code,interprets each line, and runs it.
  * 
  * 3.What is variable ?
- * Ans: Variable means anything that can vary. In JavaScript, a variable store the data value that can be changed later on.
+ * Ans: Variable means anything that can vary. In JavaScript, a variable store 
+ * the data value that can be changed later on.
  * 
  * 4.How to declare variable in javascript?
- * Ans: Variables are containers for storing data.Variables are declare with the keyword 'Var'.Example: var number = 10;
+ * Ans: Variables are containers for storing data.Variables are declare with the 
+ * keyword 'Var'.Example: var number = 10;
  * 
  * 5.How to change variable value?
  * Ans : --Other Packege-- 
@@ -80,7 +86,8 @@
  * 14. How to find out how many elements are in array?
  * Ans: Using array.length
  * 
- * 15. How do index positions work in array elements? Where does it start and how does it changes?
+ * 15. How do index positions work in array elements? Where does it start and how 
+ * does it changes?
  *  
  * Ans: index position works from the left it starts at 0 and then changes to 
  * right position 1,2,3 and so on.
@@ -100,5 +107,27 @@
  * 
  * Ans: --Other Packege--
  * 
-
+ * 20. ধরো, কোন একটা ইনডেক্স দিয়ে উপাদান খুঁজতে গেছো।
+ *  কিন্তু সেটার মান না দিয়ে তোমাকে undefined দেখাচ্ছে।
+ *  সেটা দেখে তুমি কি বুঝবে?
+ * 
+ * Ans: if you don't add value on a variable ,if your array element doesn't exist 
+ * and if your object property doesn't exist ,it will give you an undefined 
+ * output.
+ * 
+ * 
+ * 21. কোন একটা Array এর মধ্যে লাস্ট উপাদান হিসেবে কোন উপাদান হিসেবে যোগ করতে 
+ * চাইলে কিভাৱে যোগ করবে। আবার Array থেকে শেষের উপাদান টা বের করে দিতে চাইলে 
+ * কিভাবে বের করে দিবে?
+ * 
+ * Ans: --Other Packege--
+ * 
+ * 22.কোন একটা Array এর মধ্যে প্রথম উপাদান হিসেবে কোন উপাদান হিসেবে যোগ করতে 
+ * চাইলে কিভাৱে যোগ করবে। আবার Array থেকে প্রথম উপাদান টা বের করে দিতে চাইলে 
+ * কিভাবে বের করে দিবে
+ * 
+ * Ans: --Other Packege--
+ *
+ * 
+ *
  ****************/ 
