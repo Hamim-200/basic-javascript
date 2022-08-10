@@ -92,5 +92,13 @@
  * 
  * Ans: --Other Packege--
  * 
+ * 18. How can you change or update value in the existing array elements ?
+ * 
+ * Ans: --Other Packege--
+ * 
+ * 19.How to find Index in array?
+ * 
+ * Ans: --Other Packege--
+ * 
 
  ****************/ 
