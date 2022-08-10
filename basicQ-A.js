@@ -128,6 +128,55 @@
  * 
  * Ans: --Other Packege--
  *
+ * 23. Explaine : >, <, ==, !=, <=, >=, ===, !==, &&, ।। ?
+ * 
+ * Ans:--Other Packege--
+ * 
+ * 24.তোমার কাছে: ৮০০০০ টাকার বেশি হলে তুমি mac কিনবে, ৬০ টাকার বেশি হলে gaming 
+ * ল্যাপটপ কিনবে, ৪০ হাজার টাকার বেশি হলে lenovo yoga কম্পিউটার কিনবে , ২০ হাজার 
+ * টাকার বেশি হলে পুরান ল্যাপটপ কিনবে। না হয় তুমি মোবাইল দিয়ে কাজ চালাবে। 
+ * 
+ * Ans:--Other Packege--
+ * 
+ * 
+ * 
+ * ____-------LOOOOOP--------____
+ * 
+ * 25.আসকে আমার মন ভালো নেই -- এই কথা ৩৯ বার আউটপুট হিসেবে দেখাও। 
+ * 
+ * Ans:--Other Packege--
+ * 
+ * 
+ * 26.How does while loop work?
+ * 
+ * Ans :The while statement creates a loop that is executed while a condition is 
+ * true.The loop runs while the condition is true.Otherwise it stops.
+ * 
+ * 27. How does for loop work?
+ * 
+ * Ans: i) initializationStatement কেবলমাত্র একবার এক্সিকিউট(execute)হয়।
+ *      ii)তারপরে testExpression এক্সিকিউট হয়। ইহা false(0) হলে for লুপের 
+ *      সমাপ্তি ঘটে। কিন্তু টেস্ট এক্সপ্রেশনের ভ্যালু যদি True হয় তাহলে for 
+ *      লুপের কোড ব্লক এক্সিকিউট হয় এবং updateStatement এর ভ্যালু আপডেট হয়।
+ *      iii) testExpression মিথ্যা না হওয়া পর্যন্ত ইহা চলতেই থাকে।
+ *
+ * 28. What happend if you don't change the loop variable on  while loop?
+ * 
+ * Ans: The while loop was just keep looping forever this is called an infinite 
+ * loop.     
+ * 
+ * 
+ * 29. Write a code to see the numbers from 58-98?
+ * 
+ * Ans:--Other Packege--
+ * 
+ * 30. Write a code to see the  even numbers from 412-456?
+ * 
+ * Ans:--Other Packege--
+ * 
+ * 31. Write a code to see the  odd numbers from 581-623?
+ * 
+ * Ans:--Other Packege--
  * 
  *
  ****************/ 
